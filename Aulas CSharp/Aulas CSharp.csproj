@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Aulas_CSharp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Program.cs" Link="Program.cs" />
+   <!--<Compile Include="C:\Users\Adriana\OneDrive\Documentos\Aulas CSharp\Aulas CSharp\Projeto_TransfCeusius.cs" Link="Projeto_TransfCeusius.cs" />-->
+  </ItemGroup>
+
+</Project>
